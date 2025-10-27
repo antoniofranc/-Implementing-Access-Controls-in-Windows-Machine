@@ -15,3 +15,9 @@ This project demonstrates the implementation of enterprise-level access controls
   - Group Policy Management Console (GPMC)
   - PowerShell for automation and reporting
   - pfSense Firewall
+----
+
+1- Before implementing access control policies, we will firstly examine the properties of the current Administrator account.
+2 - Click `Start` icon in the `Desktop`, right-click `Windows Powershell` and navigate to `More-->Run as Administrator`.
+
+<img width="780" height="497" alt="image" src="https://github.com/user-attachments/assets/b7183888-7f4d-4605-b5f4-999413819d9e" />
